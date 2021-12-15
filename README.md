@@ -9,8 +9,6 @@ and integrates publically avaiable translation models from the [OPUS-MT project]
 
 You can download the latest automatic build for Windows, Linux and Mac from the [releases](https://github.com/Helsinki-NLP/OPUS-MT-app/releases) github tab.
 
-
-
 ## Compile from source
 
 To build and run
