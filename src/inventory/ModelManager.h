@@ -10,6 +10,9 @@
 #include "settings/Settings.h"
 #include "RepoManager.h"
 
+// constexpr const char* kModelListUrl = "https://translatelocally.com/models.json";
+// constexpr const char* kModelListUrl = "https://object.pouta.csc.fi/OPUS-MT-models/app/models.json";
+
 namespace translateLocally {
     namespace models {
         enum Location {
