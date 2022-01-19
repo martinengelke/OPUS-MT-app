@@ -37,7 +37,7 @@ int main(int argc, char *argv[])
     }
 
     QApplication translateLocally(argc, argv);
-    QCoreApplication::setApplicationName("OPUS-MT");
+    QCoreApplication::setApplicationName("opusMT");
     QCoreApplication::setApplicationVersion(TRANSLATELOCALLY_VERSION_FULL);
 
     MainWindow w;
