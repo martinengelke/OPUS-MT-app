@@ -185,7 +185,6 @@ endif(WIN32)
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
    if(APPLE)
-
      qt_add_executable(opusMT MACOSX_BUNDLE
        ${PROJECT_SOURCES}
        ${APP_ICON_MACOSX}
