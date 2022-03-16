@@ -2,9 +2,11 @@
 #include <QAbstractTableModel>
 #include "settings/Settings.h"
 
-constexpr const char* kDefaultRepositoryName = "Bergamot";
+// constexpr const char* kDefaultRepositoryName = "Bergamot";
+constexpr const char* kDefaultRepositoryName = "OPUS-MT";
 
-constexpr const char* kDefaultRepositoryURL = "https://translatelocally.com/models.json";
+// constexpr const char* kDefaultRepositoryURL = "https://translatelocally.com/models.json";
+constexpr const char* kDefaultRepositoryURL = "https://object.pouta.csc.fi/OPUS-MT-models/app/models.json";
 
 class RepoManager : public QAbstractTableModel {
     Q_OBJECT
