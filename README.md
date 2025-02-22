@@ -2,7 +2,7 @@
 
 Fast and secure translation on your local machine with a GUI, powered by marian and Bergamot.
 The app is an adaptation of [translateLocally](https://github.com/XapaJIaMnu/translateLocally)
-and integrates publically avaiable translation models from the [OPUS-MT project](https://github.com/Helsinki-NLP/OPUS-MT) to bring fast and secure machine translation to the desktop of end users.
+and integrates publically available translation models from the [OPUS-MT project](https://github.com/Helsinki-NLP/OPUS-MT) to bring fast and secure machine translation to the desktop of end users.
 
 
 ## Downloads
